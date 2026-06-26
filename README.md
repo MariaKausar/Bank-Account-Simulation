@@ -1,7 +1,7 @@
 # Bank-Account-Simulation
 
 A simple **Bank Account Simulation System** built using Python.
-This project allows users to perform basic banking operations through a menu-driven program.
+This project allows users to perform basic banking operations through a menu-driven program. 
 
 ## Features
 
