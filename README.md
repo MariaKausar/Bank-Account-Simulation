@@ -28,4 +28,3 @@ After that, a menu is displayed where the user can choose different banking oper
 
 The program continues running until the user selects the exit option.
 
-
